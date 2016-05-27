@@ -5,4 +5,4 @@ Enable a user to auto-login himself in Mac OSX
 
 ```bash
 ./autologin.sh <USER> <PASSWD>
-```bash
+```
