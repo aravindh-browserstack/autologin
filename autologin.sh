@@ -3,7 +3,7 @@
 username=$1
 passwd=$2
 
-if [[ $username != `users` ]]
+if [[ $username != `whoami` ]]
 then
   echo "Invalid username provided"
   exit 1
